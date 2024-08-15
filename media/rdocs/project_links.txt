@@ -1,0 +1,28 @@
+project links:
+
+js proj:
+
+1: lightbulb proj
+https://manavz.github.io/lightbulb-project/
+
+2: increment counter proj
+https://manavz.github.io/number-counter/
+
+3: jokes Api
+https://manavz.github.io/Jokes-Api.github.io/
+
+4: Animated thermometer Icon
+https://manavz.github.io/Animated-Icon.github.io/
+
+5: Temperature converter
+https://manavz.github.io/Temp-converter.github.io/
+
+6: Notes Taking Website
+https://manavz.github.io/Notes-Taking-App.github.io/
+
+7: Text tools website using React js
+https://manavz.github.io/text-tools-react/
+
+portfolio id and password:
+email-id: manavbhatt950@gmail.com
+password: manavbhatt@321
